@@ -1,0 +1,8 @@
+C:\Users\urazo\Desktop\Nikita\Study\FileManager\FileManager\FileManager\bin\Debug\FileManager.exe.config
+C:\Users\urazo\Desktop\Nikita\Study\FileManager\FileManager\FileManager\bin\Debug\FileManager.exe
+C:\Users\urazo\Desktop\Nikita\Study\FileManager\FileManager\FileManager\bin\Debug\FileManager.pdb
+C:\Users\urazo\Desktop\Nikita\Study\FileManager\FileManager\FileManager\obj\Debug\FileManager.csproj.AssemblyReference.cache
+C:\Users\urazo\Desktop\Nikita\Study\FileManager\FileManager\FileManager\obj\Debug\FileManager.csproj.SuggestedBindingRedirects.cache
+C:\Users\urazo\Desktop\Nikita\Study\FileManager\FileManager\FileManager\obj\Debug\FileManager.csproj.CoreCompileInputs.cache
+C:\Users\urazo\Desktop\Nikita\Study\FileManager\FileManager\FileManager\obj\Debug\FileManager.exe
+C:\Users\urazo\Desktop\Nikita\Study\FileManager\FileManager\FileManager\obj\Debug\FileManager.pdb
